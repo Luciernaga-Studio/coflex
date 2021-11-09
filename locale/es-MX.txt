@@ -119,6 +119,7 @@ album_8489F560_997F_550A_41D8_8DAFC3BA8652.label = Información
 album_8489F560_997F_550A_41D8_8DAFC3BA8652_0.label = Informacion Planta 2
 album_8C6BBAEA_994E_BF1F_41E2_D456813F0E8C.label = Información
 album_8C6BBAEA_994E_BF1F_41E2_D456813F0E8C_2.label = Informacion Planta 1
+panorama_0B0E9D1A_057F_325C_4163_B1E4534CE97A.label = blackbackground
 panorama_22C59995_2E92_5876_41BE_FCF64E051D86.label = Exterior
 panorama_24AB2D9D_2E92_F871_41A7_85C39135CE0A.label = Recepción
 panorama_24AB35E3_2E92_EBD2_41C0_4A55F14CC316.label = Showroom
